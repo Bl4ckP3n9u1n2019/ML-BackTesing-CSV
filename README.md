@@ -15,4 +15,5 @@ Total Wins 17
 Total Losses 1 
 Accuracy Ratio: 94.444444%
 
-Predicted Buy/Sell for 1259 ROI: 22553%
+Predicted Buy/Sell for 1259
+ROI: 22553%
